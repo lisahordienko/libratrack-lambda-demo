@@ -1,0 +1,1 @@
+{"event": "loan.overdue", "data": {"loan_id": "LN-2026-041", "days_overdue": 5, "daily_rate": 0.50, "currency": "USD"}}

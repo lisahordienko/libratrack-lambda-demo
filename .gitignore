@@ -1,0 +1,7 @@
+build/
+.floci-data/
+.api-id
+*.zip
+terraform/.terraform/
+terraform/*.tfstate*
+.aws-sam/
